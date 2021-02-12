@@ -12,7 +12,7 @@ function disappearbutton () {
   document.getElementById('disappear').style.display = 'none'
 }
 
-function myFunction() {
+function myFunction () {
   document.getElementById('paragraph').style.color = 'red'
   document.getElementById('paragraph').style.fontSize = 'x-large'
 }
