@@ -1,6 +1,3 @@
-/* exported buttonOn */
-/* exported dogbutton */
-
 function buttonOn () {
   document.getElementById('text').innerHTML = 'Done!'
 }
