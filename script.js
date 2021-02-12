@@ -1,10 +1,9 @@
 function buttonOn() {
-  document.getElementByid("text").innerHTML =
-  "Done!"
+  document.getElementById("text").innerHTML = "Done!"
 }
 
-function bridbuttOn() {
-  document.getElementById("bird-picture").src = "download.jpg"
-  document.getElementById("bird-picture").alt = "Blue Jay"
+function dogbutton() {
+  document.getElementById("bird-picture").src = "download-1.jpg"
+  document.getElementById("bird-picture").alt = "dog picture"
   document.getElementById("background").style.backgroundColor = "Blue"
 }
